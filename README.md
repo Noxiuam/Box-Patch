@@ -14,5 +14,5 @@ Assuming you're playing fast, you can have everything but monkeys on round 11, j
 
 ## Ascension
 
-- Thunger Gun given after 3 box hits
+- Thundergun given after 3 box hits
 - Gersh Devices are given on the second box move after or on 2 hits of the new box
